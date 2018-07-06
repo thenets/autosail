@@ -27,6 +27,15 @@ Check out the [Application testing](https://polymer.github.io/pwa-starter-kit/ap
 npm run test
 ```
 
+## Building for static hosting
+
+To build the production site, run:
+
+```
+npm run build:static
+```
+
+
 ## Available scripts
 
 In the app’s root directory you can run:
